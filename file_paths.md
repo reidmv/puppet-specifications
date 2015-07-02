@@ -32,6 +32,8 @@ The files annotated by an '*' indicate that they are created by package installa
         hieradata *                       # n/a
         modules *                         # user modulepath
 
+    /etc/puppetlabs/code-staging *
+
     /etc/puppetlabs/mcollective *
         client.cfg *
         facts.yaml *
